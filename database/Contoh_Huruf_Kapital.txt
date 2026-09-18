@@ -1,7 +1,0 @@
-Contoh:
-
-Benar:
-Indonesia memiliki banyak bahasa daerah.
-
-Salah:
-indonesia memiliki banyak bahasa daerah.
